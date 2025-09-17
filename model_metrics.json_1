@@ -1,0 +1,6 @@
+{
+    "train_mse": 4.63,
+    "test_mse": 10.43,
+    "train_rmse": 2.15,
+    "test_rmse": 3.23
+}
