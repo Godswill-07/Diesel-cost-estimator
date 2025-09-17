@@ -9,7 +9,7 @@ gen_runtime_model = joblib.load('gen_runtime_model_best.pkl')
 
 st.title("Generator Diesel Cost Estimator")
 
-st.image("generator.png", caption="Diesel Generator", use_column_width=True)
+st.image("generator.png", caption="Diesel Generator", use_container_width=True)
 
 st.header("Please enter required inputs")
 
